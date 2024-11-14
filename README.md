@@ -14,7 +14,6 @@ Os comandos DDL são usados para definir a estrutura do banco de dados, incluind
       email VARCHAR(100)
   );
 
-
-## GitHub Stats
-![Luciana Sampaio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=luasampaio&show_icons=true&theme=Ocean_dark)
----
+## Contact
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luciana-sampaio/)
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:luciana.sampaio84@gmail.com)
