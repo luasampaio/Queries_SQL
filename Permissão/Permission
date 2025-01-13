@@ -1,0 +1,7 @@
+- Syntax for SQL Server and Azure SQL Database  
+  
+-- Simplified syntax for GRANT  
+GRANT { ALL [ PRIVILEGES ] }  
+      | permission [ ( column [ ,...n ] ) ] [ ,...n ]  
+      [ ON [ class :: ] securable ] TO principal [ ,...n ]   
+      [ WITH GRANT OPTION ] [ AS principal ] 
